@@ -1,0 +1,10 @@
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\bin\Debug\Project_1.exe.config
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.UI.Login.resources
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.csproj.GenerateResource.Cache
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\bin\Debug\Project_1.exe
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\bin\Debug\Project_1.pdb
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.exe
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.pdb
+c:\users\khoa\documents\visual studio 2013\Projects\Project_1\Project_1\obj\Debug\Project_1.UI.Main.resources
